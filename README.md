@@ -9,6 +9,7 @@ Bei Fragen oder Fehlermeldungen, nutzt du bitte das Issuesystem. Hier sollte ber
 Wir bearbeiten die Aufgaben in erster Linie mit Markdown, da diese hier in github nativ angezeigt werden können. 
 
 Zum Bearbeiten der Lösungen mit Markdown und eingefügten Mathematischen Inhalten verwenden wir momentan Atom mit dem markdown-katex-preview Plugin.
+![Atom mit markdown-katex-preview](https://cloud.githubusercontent.com/assets/9371903/11169106/5d478826-8bad-11e5-92b8-f03f473766cb.jpg)
 
 ### Installation
 1. Installiere [Atom](https://atom.io)
